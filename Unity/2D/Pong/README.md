@@ -21,3 +21,18 @@ Well...it's Pong.
 | Up = `up arrow key`     |
 | Down = `down arrow key` |
 
+## Upcoming Features
+- [ ] Main Menu
+	- [ ] Start Game
+	- [ ] Options
+		- [ ] Difficulty Level
+		- [ ] Audio Levels
+		- [ ] Score to Win
+		- [ ] Quit
+
+- [ ] Pause Menu
+	- [ ] Quit
+  - [ ] Audio Levels
+- [ ] Audio
+	- [ ] Music
+	- [ ] Sound Effects
